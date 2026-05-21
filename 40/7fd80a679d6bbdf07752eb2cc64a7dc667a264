@@ -1,0 +1,20 @@
+.github/workflows/ci.yml
+  s_04fe447c377350::t_4e60ed23c43446 23
+  s_04fe447c377350::t_55e5a8a94016f7 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "407fd80a679d6bbdf07752eb2cc64a7dc667a264",
+  "prompts": {},
+  "sessions": {
+    "s_04fe447c377350": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b714801-7f83-40bc-a0c4-0a14b544e717",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
